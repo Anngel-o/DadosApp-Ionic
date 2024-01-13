@@ -1,0 +1,7 @@
+{
+  "name": "appdados",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
